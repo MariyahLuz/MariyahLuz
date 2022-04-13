@@ -11,7 +11,7 @@
 </a>
 <br/>
 <a href="https://github.com/MariyahLuz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=MariyahLuz&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="80%"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Mariyah&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="80%"/>
 </a>
 
 <a href="https://github.com/MariyahLuz/iDeliver">
