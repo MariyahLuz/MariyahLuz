@@ -10,9 +10,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MariyahLuz&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Mariyah's GitHub Stats" width="80%" />
 </a>
 <br/>
-<!-- <a href="https://github.com/MariyahLuz">
+<a href="https://github.com/MariyahLuz">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Mariyah&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="80%"/>
-</a> -->
+</a>
 
 <a href="https://github.com/MariyahLuz/iDeliver">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MariyahLuz&repo=iDeliver&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
