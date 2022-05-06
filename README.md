@@ -19,7 +19,7 @@
 </a> 
 
 <a href="https://github.com/MariyahLuz/CaltecWebsite">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MariyahLuz&repo=CaltecWebsite&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?shareid=Mariyah/3f3f961-0206-486b-aa4b-9f2b2ab31e60 />
 </a>
 
 <a href="https://github.com/MariyahLuz/MessagingApp">
